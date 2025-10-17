@@ -191,7 +191,7 @@ Distributed under the MIT.
 <!-- CONTACT -->
 ## Contact
 
-XISHU - twitter: [@shallowlong](https://x.com/shallowlong) - email: shallowlong@gmail.com
+Author: xishu2099 - GitHub: [@shallowlong](https://github.com/shallowlong) - Email: shallowlong@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
